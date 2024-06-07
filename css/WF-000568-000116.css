@@ -1,0 +1,24 @@
+/*
+* Webfonts served by tptq-arabic.com
+*
+* To make the font files as small as possible,
+* most glyphs and OpenType features were removed.
+* To edit the fonts, add more language support,
+* log it to your TPTQ Arabic account:
+* http://www.tptq-arabic.com/my_account/webfonts
+*
+* The TPTQ Arabic Font Software is protected under domestic
+* and international trademark and copyright law.
+* Modifying, reverse engineering or otherwise copying
+* of TPTQ Arabic Font Software is illegal.
+* http://www.tptq-arabic.com/licensing/
+*
+* (c) 2020, TPTQ Arabic
+* Generated: 2020-05-21 12:43:48
+*/
+
+@font-face {
+	font-family: "Hudhud Bold";
+	src: url("../fonts/WF-000568-000116-000134-aa02f755a41a2848b8c76be760ae4a7e.woff2") format("woff2"), url("../fonts/WF-000568-000116-000134-aa02f755a41a2848b8c76be760ae4a7e.woff") format("woff");
+	font-display: auto;
+}
