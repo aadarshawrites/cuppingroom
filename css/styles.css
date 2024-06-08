@@ -447,14 +447,14 @@ img {
 }
 
 .hp-01 {
-  background-image: url("images/Banner1.png");
+  background-image: url("../images/Banner1.png");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .hp-01.en {
-  background-image: url("images/Banner1.png");
+  background-image: url("../images/Banner1.png");
 }
 
 
